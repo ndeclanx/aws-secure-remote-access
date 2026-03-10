@@ -1,0 +1,37 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfvars
+!terraform.tfvars.example
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+crash.log
+
+# Certificates  -  NEVER commit private keys or certs
+certs/
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.ovpn
+
+# easy-rsa working directory
+scripts/EasyRSA-*/
+scripts/pki/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
