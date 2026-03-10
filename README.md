@@ -280,5 +280,5 @@ MIT  -  see [LICENSE](LICENSE) for details.
 **Ndohnwi Declan**  -  AWS Cloud & Cybersecurity Engineer
 
 - GitHub: [@ndeclanx](https://github.com/ndeclanx)
-- CompTIA Security+ | Google Cybersecurity Certified
+- CompTIA Security+ | AWS Cloud Certified
 - Available for consulting engagements in cloud security and infrastructure
